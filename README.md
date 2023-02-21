@@ -6,4 +6,5 @@ Data Sets "Online Prediction of Molded Part Quality in the Injection Molding Pro
 
 # Attribution
 For attributions please cite:
+
 Bogedale, L.; Doerfel, S.; Schrodt, A.; Heim, H.-P. Online Prediction of Molded Part Quality in the Injection Molding Process Using High-Resolution Time Series. Polymers 2023, 15, 978. https://doi.org/10.3390/polym15040978 
